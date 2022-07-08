@@ -1,0 +1,27 @@
+{
+  "name": "hela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/hela.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://te70@github.com/te70/fuzzy-octo-potato.git"
+  },
+  "author": "Tevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/te70/fuzzy-octo-potato/issues"
+  },
+  "homepage": "https://github.com/te70/fuzzy-octo-potato#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "commander": "^9.3.0",
+    "configstore": "^6.0.0",
+    "inquirer": "^9.0.0"
+  }
+}
